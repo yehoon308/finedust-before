@@ -9,7 +9,7 @@ const App: React.FC = () => {
   const queryClient = new QueryClient();
   const router = createBrowserRouter([
     {
-      path: '/fineDustCheck',
+      path: '/finedust',
       element: <Root />,
       errorElement: <p>Not Found 😢</p>,
       children: [
