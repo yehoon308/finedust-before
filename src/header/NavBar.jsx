@@ -83,7 +83,6 @@ export default function NavBar() {
           transition: 'all 0.3s ease' 
         }}>
           <StyledLink to="/fineDustCheck" style={{ 
-            // color: 'white', 
             fontSize: '2.25rem', 
             fontWeight: '600', 
             textShadow: '2px 2px 4px rgba(0,0,0,0.5)', 
@@ -112,7 +111,6 @@ export default function NavBar() {
         padding: '16px 0 16px 50px' 
       }}>
         <NavLink to="/fineDustCheck/dust-info" style={{ 
-          // color: 'rgb(255, 255, 255)', 
           fontWeight: '600', 
           textShadow: '2px 2px 4px rgba(0,0,0,0.5)', 
           transition: 'all 0.3s ease' 
@@ -120,7 +118,6 @@ export default function NavBar() {
           미세먼지란?
         </NavLink>
         <NavLink to="/fineDustCheck/fineDust" style={{ 
-          // color: 'rgb(255, 255, 255)', 
           fontWeight: '600', 
           textShadow: '2px 2px 4px rgba(0,0,0,0.5)', 
           transition: 'all 0.3s ease' 

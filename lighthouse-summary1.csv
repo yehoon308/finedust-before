@@ -1,0 +1,12 @@
+﻿항목,점수
+성능,48
+접근성,100
+Best Practices,100
+SEO,100
+,
+지표,값
+First Contentful Paint (FCP),8.0 s
+Largest Contentful Paint (LCP),18.2 s
+Total Blocking Time (TBT),390 ms
+Time to Interactive (TTI),18.2 s
+Speed Index,8.0 s
